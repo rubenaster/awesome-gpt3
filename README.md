@@ -45,6 +45,7 @@
 * [Rephrasing sentences to be more polite](https://twitter.com/eturner303/status/1285342431244763136)
 * [Summarizing famous people thoughts](https://twitter.com/paraschopra/status/1284423233047900161)
 * [Priming GPT-3 to Speak like Any Big Five Personality](https://medium.com/intuitionmachine/priming-gpt-3-to-speak-like-any-big-five-personality-b610f5aca94f)
+* [Reverse words](https://twitter.com/npew/status/1525900849888866307)
 
 ### Content creation
 * [Content creation for marketing](https://twitter.com/Siddharth87/status/1282823354567626754)
